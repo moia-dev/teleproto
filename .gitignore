@@ -19,6 +19,14 @@ target
 # IntelliJ
 .idea
 
+# VS Code
+.vscode
+
+# Metals
+.bloop
+.metals
+metals.sbt
+
 # ENSIME
 .ensime
 .ensime_lucene
